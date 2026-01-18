@@ -21,7 +21,7 @@ export const properties = [
     agent: {
       name: "Chinelo Okoro",
       phone: "+234 801 234 5678",
-      email: "chinelo@premiumproperties.ng",
+      email: "chinelo@houseparadecorner.ng",
       photo: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400"
     },
     virtualTour: "https://my.matterport.com/show/?m=xyz123"
@@ -47,7 +47,7 @@ export const properties = [
     agent: {
       name: "Adebayo Adekunle",
       phone: "+234 802 345 6789",
-      email: "adebayo@premiumproperties.ng",
+      email: "adebayo@houseparadecorner.ng",
       photo: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400"
     }
   },
@@ -72,7 +72,7 @@ export const properties = [
     agent: {
       name: "Amara Eze",
       phone: "+234 803 456 7890",
-      email: "amara@premiumproperties.ng",
+      email: "amara@houseparadecorner.ng",
       photo: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=400"
     }
   },
@@ -97,7 +97,7 @@ export const properties = [
     agent: {
       name: "Oluwaseun Balogun",
       phone: "+234 804 567 8901",
-      email: "seun@premiumproperties.ng",
+      email: "seun@houseparadecorner.ng",
       photo: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400"
     }
   }
@@ -111,7 +111,7 @@ export const agents = [
     experience: "12 years",
     propertiesSold: 245,
     phone: "+234 801 234 5678",
-    email: "chinelo@premiumproperties.ng",
+    email: "chinelo@houseparadecorner.ng",
     photo: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400"
   },
   {
@@ -121,7 +121,7 @@ export const agents = [
     experience: "15 years",
     propertiesSold: 312,
     phone: "+234 802 345 6789",
-    email: "adebayo@premiumproperties.ng",
+    email: "adebayo@houseparadecorner.ng",
     photo: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400"
   },
   {
@@ -131,7 +131,7 @@ export const agents = [
     experience: "8 years",
     propertiesSold: 167,
     phone: "+234 803 456 7890",
-    email: "amara@premiumproperties.ng",
+    email: "amara@houseparadecorner.ng",
     photo: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=400"
   }
 ];
